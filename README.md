@@ -1,5 +1,8 @@
 We aimed to:
 
+![image](https://github.com/user-attachments/assets/95277985-c386-4016-8b42-4763b16a5f5d)
+
+
 Understand sales trends and key customer segments.
 Analyze regional performance.
 Optimize shipping costs.
